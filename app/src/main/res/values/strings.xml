@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatImitate</string>
+    <string name="linear_layout_button">Linear Layout</string>
+    <string name="constraint_layout_button">Constraint Layout</string>
+    <string name="frame_layout_button">Frame Layout</string>
+    <string name="hint_enter_message">Введите сообщение</string>
+    <string name="button_send">Отправить</string>
+    <string name="image_view_description">Фоновое изображение</string>
+    <string name="image_button_description">Кнопка для смены изображения</string>
+</resources>
